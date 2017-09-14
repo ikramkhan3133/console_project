@@ -1,0 +1,5 @@
+C:\Users\Ikram\Documents\Visual Studio 2013\Projects\console_newproject\console_newproject\bin\Debug\console_newproject.exe.config
+C:\Users\Ikram\Documents\Visual Studio 2013\Projects\console_newproject\console_newproject\bin\Debug\console_newproject.exe
+C:\Users\Ikram\Documents\Visual Studio 2013\Projects\console_newproject\console_newproject\bin\Debug\console_newproject.pdb
+C:\Users\Ikram\Documents\Visual Studio 2013\Projects\console_newproject\console_newproject\obj\Debug\console_newproject.exe
+C:\Users\Ikram\Documents\Visual Studio 2013\Projects\console_newproject\console_newproject\obj\Debug\console_newproject.pdb
